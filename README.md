@@ -9,4 +9,6 @@ git pull origin main
 
 git branch feature-branch
 git checkout feature-branch
+git switch feature-branch
+
 
