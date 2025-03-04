@@ -11,4 +11,11 @@ git branch feature-branch
 git checkout feature-branch
 git switch feature-branch
 
+git checkout main
+git merge feature-branch
+
+git add .
+git commit -m "Resolved merge conflict"
+
+
 
